@@ -1,0 +1,9 @@
+num=1
+print(type(num))
+'''
+python3中只有int一种类型,数据多长自动显示多长,自适应变长整数
+python2中仍然保留long类型
+python3中的int类型堪比大海,来多少都可以容纳
+'''
+num=111111111111111111111
+print(type(num))
